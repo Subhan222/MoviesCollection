@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+#navi{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height:70px;
+    background-color: whitesmoke;
+
+
+
+}
+#navi nav{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#navi nav h3{
+
+    color: rgba(0, 0, 0, 0.329);
+    font-size: 2rem;
+}
